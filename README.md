@@ -89,7 +89,7 @@ App : https://acb-churn-dudagrandprojetml.streamlit.app/
 
 ## ⚙️ Lancer le projet en local
 ```bash
-git clone https://github.com/alexandre-cameron-borges/duda_grandprojet_ML.git
+git clone https://github.com/jordanpindoh/projet-ML---Customer-Churn-Prediction.git
 cd duda_grandprojet_ML
 pip install -r requirements.txt
 streamlit run app.py
